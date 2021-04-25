@@ -1,0 +1,12 @@
+{
+  "name": "md",
+  "version": "1.0.0",
+  "description": "majas darbs uz ballem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Oskars Veiss",
+  "license": "ISC",
+  "type": "module"
+}
